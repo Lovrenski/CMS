@@ -1,5 +1,5 @@
 ## About Projects
-<p>This is digital library app. Got this project from school. There are two options... digital books and physical books. In this project i choose digital</p>
+<p>This is CMS (Content Management System) app. Project from school.</p>
 <p>🙇‍♂️ There's my name, no, and class</p>
 <ul>
     <li>Name : Naufal Azka Fadhlillah</li>
@@ -8,9 +8,8 @@
 </ul>
 <p>⚡ Technologies used in this project :</p>
 <ul>
-    <li>Laravel 11</li>
-    <li>Bootstrap 4</li>
-    <li>Select2</li>
+    <li>Laravel 10</li>
+    <li>Bootstrap 5</li>
 </ul>
 
 ## How to Run
@@ -18,7 +17,7 @@
 <p>First, clone this project</p>
 
 ```bash
-git clone https://github.com/Lovrenski/cms.git
+git clone https://github.com/Lovrenski/CMS.git
 ```
 <p>Open it, then run this in command</p>
 
